@@ -1,0 +1,22 @@
+{
+  "files.associations": {
+    "pcb.h": "c",
+    "serializacion.h": "c",
+    "stdint.h": "c",
+    "log.h": "c",
+    "type_traits": "c",
+    "config.h": "c",
+    "bloques.h": "c"
+    "string.h": "c",
+    "tabla_paginas.h": "c",
+    "stdio.h": "c",
+    "archivo.h": "c",
+    "filesystem.h": "c",
+    "queue.h": "c",
+    "list.h": "c"
+  },
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.formatOnSave": true
+  }
+}

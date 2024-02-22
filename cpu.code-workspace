@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"path": "cpu"
+		},
+		{
+			"path": "filesystem"
+		},
+		{
+			"path": "kernel"
+		},
+		{
+			"path": "memoria"
+		},
+		{
+			"path": "utils"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"sockets.h": "c",
+			"server.h": "c",
+			"filesystem.h": "c",
+			"filesystem_config.h": "c",
+			"string.h": "c",
+			"stdlib.h": "c",
+			"planners.h": "c",
+			"list.h": "c",
+			"array": "c",
+			"deque": "c",
+			"string": "c",
+			"unordered_map": "c",
+			"vector": "c",
+			"string_view": "c",
+			"initializer_list": "c",
+			"tabla_paginas.h": "c",
+			"espacio_usuario.h": "c",
+			"diccionario_monitor.h": "c",
+			"lista_monitor.h": "c",
+			"mmu.h": "c",
+			"stdint.h": "c",
+			"handler_paginacion.h": "c",
+			"log.h": "c",
+			"temporal.h": "c",
+			"console.h": "c",
+			"process_handler.h": "c",
+			"kernel.h": "c",
+			"file.h": "c",
+			"cola_monitor.h": "c",
+			"memory.h": "c"
+		}
+	}
+}
