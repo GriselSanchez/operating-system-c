@@ -1,4 +1,4 @@
-# tp-2023-2c-salvame-superman
+# Sistemas Operativos - 2023 2C
 
 ## Correr el programa
 - Comprobar archivos de configuración
